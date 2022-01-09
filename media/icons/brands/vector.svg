@@ -9,7 +9,7 @@
    viewBox="0 0 652 652"
    style="enable-background:new 0 0 652 652;"
    xml:space="preserve"
-   sodipodi:docname="vector-institute-logo-vector.svg"
+   sodipodi:docname="vector.svg"
    inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
    inkscape:pagecheckerboard="0"
    showgrid="false"
    inkscape:zoom="0.83039936"
-   inkscape:cx="325.74688"
+   inkscape:cx="326.95112"
    inkscape:cy="325.74688"
    inkscape:window-width="1920"
    inkscape:window-height="940"
@@ -48,21 +48,15 @@
 	
 	
 	
-<rect
-   style="opacity:1;fill:#f9f9f9"
-   id="rect457"
-   width="654.51849"
-   height="653.43652"
-   x="-0.31045726"
-   y="0.42806941" /><polygon
+<polygon
    class="st0"
-   points="302.9,98.2 158.9,98.2 158.9,125.7 200.5,125.7 309.4,411 322.8,442.2 352.2,363.2 344.9,345.1 261.4,125.7 302.9,125.7 "
+   points="158.9,98.2 158.9,125.7 200.5,125.7 309.4,411 322.8,442.2 352.2,363.2 344.9,345.1 261.4,125.7 302.9,125.7 302.9,98.2 "
    id="polygon36"
-   transform="matrix(1.4827254,0,0,1.4827254,-151.94077,-53.600328)"
+   transform="matrix(1.4265666,0,0,1.4265666,-133.74251,-39.153479)"
    style="fill:#1e191a" /><polygon
    class="st1"
-   points="423.5,114.4 381.1,219.2 380.6,220.2 394.8,255.6 447.4,124 475.1,186.9 489.2,153.9 454.2,72.3 374.4,107.3 360,140.8 "
+   points="381.1,219.2 380.6,220.2 394.8,255.6 447.4,124 475.1,186.9 489.2,153.9 454.2,72.3 374.4,107.3 360,140.8 423.5,114.4 "
    id="polygon38"
-   transform="matrix(1.4827254,0,0,1.4827254,-151.94077,-53.600328)"
+   transform="matrix(1.4265666,0,0,1.4265666,-133.74251,-39.153479)"
    style="fill:#e4007f" /></g>
 </svg>
